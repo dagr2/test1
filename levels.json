@@ -1,4 +1,5 @@
 [
   {"Name": "Test", "File":"Level_01.zip","Description":"Two mini levels for tesing new objects","Start":"Level_01"},
   {"Name": "Game", "File":"Game.zip","Description":"Simple, but bigger levels for players who don't want to test things","Start":"Welcome"},
+  {"Name": "Game2", "File":"Game2.zip","Description":"First 3D-Test","Start":"World"},
   ]
